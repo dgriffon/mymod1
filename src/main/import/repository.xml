@@ -4,6 +4,7 @@
         <testmod j:dependencies="default"
                j:moduleType="module"
                j:title="testmod"
+               jcr:mixinTypes="jmix:hasExternalProviderExtension"
                jcr:primaryType="jnt:module">
                 <portlets jcr:primaryType="jnt:portletFolder"/>
                 <files jcr:primaryType="jnt:folder"/>
